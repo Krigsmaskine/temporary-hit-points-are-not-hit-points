@@ -11,8 +11,7 @@
         "type": "module",
         "compatibility": {}
       }
-    ],
-    "conflicts": {}
+    ]
   },
   "description": "Changes the core dnd5e automated concentration checks to not consider temporary hit points in its' prompts nor DC, name is a reference to a certain reading of the rules in the PHB to \"allow\" for this",
   "authors": [
