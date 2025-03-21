@@ -4,26 +4,6 @@
   "version": "1.0.0",
   "manifest": "https://github.com/Krigsmaskine/temporary-hit-points-are-not-hit-points/releases/latest/download/module.json",
   "download": "https://github.com/Krigsmaskine/temporary-hit-points-are-not-hit-points/releases/download/1.0.0/module.zip",
-  "relationships": {
-    "requires": [
-      {
-        "id": "lib-wrapper",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
-    "systems": [
-      {
-        "compatibility": {
-          "maximum": "4.3.x",
-          "minimum": "3.3.1",
-          "verified": "3.3.1"
-        },
-        "id": "dnd5e",
-        "type": "system"
-      }
-    ]
-  },
   "description": "Changes the core dnd5e automated concentration checks to not consider temporary hit points in its' prompts nor DC, name is a reference to a certain reading of the rules in the PHB to \"allow\" for this",
   "authors": [
     {
